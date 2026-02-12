@@ -1,4 +1,4 @@
-# 📊 Megaline Prepaid Plans Revenue Analysis
+# Megaline Prepaid Plans Revenue Analysis
 
 ## 📊 Project Overview
 This project analyzes customer usage data from Megaline, a telecommunications operator offering two prepaid plans: Surf and Ultimate.
